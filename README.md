@@ -13,7 +13,7 @@ git checkout -b dev
 ```
 
 ### git merge
-进行合并
+进行合并，将dev分支合并到master上面
 ```shell
 git checkout master
 git merge dev
