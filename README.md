@@ -25,3 +25,11 @@ git merge dev
 git merage dev
 ```
 此操作会将dev分支进行复制，并且dev分支将会移动
+
+
+### 修改HEAD指向
+
+查看当前的HEAD所在位置
+```shell
+cat .get/HEAD
+```
